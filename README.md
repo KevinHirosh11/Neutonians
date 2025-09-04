@@ -1,2 +1,2 @@
 # Neutonians
-Newtonian Telescope actuator Project
+A project used for Newtonian Telescope actuator Automation 
