@@ -22,4 +22,4 @@ This project is focused on designing and building a motorized moving system for 
         o	Chethisha Pabod
     •	3D Design: -
         o Kevin Hirosh
-        o	Thisara Anusara
+        o Thisara Anusara
